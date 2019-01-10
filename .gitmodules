@@ -1,15 +1,9 @@
-[submodule "p1"]
-	path = p1
-	url = https://github.com/zyalm/p1.git
 [submodule "p2"]
 	path = p2
 	url = https://github.com/zyalm/p2.git
 [submodule "p3"]
 	path = p3
 	url = https://github.com/zyalm/p3.git
-[submodule "CS537"]
-	path = CS537
-	url = https://github.com/zyalm/CS537.git
 [submodule "p4"]
 	path = p4
 	url = https://github.com/zyalm/p4.git
